@@ -1,0 +1,19 @@
+h1{
+margin-bottom: 50px;
+border: 3px rgb(201, 162, 253) dashed;
+margin-left: 70px;
+margin-right: 70px ;
+text-align: center;
+background-color:rgb(255, 249, 241) ;
+}
+p{
+  border: 1px rgb(230, 169, 248) solid;
+  margin-top: 50px;  
+  margin-left: 70px;
+  margin-right: 80px;
+  padding: 20px;
+  background-color: rgb(255, 249, 241);
+}
+body{
+
+}

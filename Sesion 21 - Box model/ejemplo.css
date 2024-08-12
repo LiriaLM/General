@@ -1,0 +1,28 @@
+p{
+    border: 1px black dashed;
+    display: block;
+    width: 250px;
+    background-color: rgb(255, 223, 182);
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+h1{
+
+    display: block;
+    text-align: center;
+
+}
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    border: 1px black inset;
+}
+div{
+    border: 1px black solid;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}

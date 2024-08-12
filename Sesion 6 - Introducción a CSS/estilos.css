@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(241, 202, 176);
+    width: 500px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(187, 73, 28);
+}
+h1{
+    font-size: 26px;
+    text-align: center;
+}
+span{
+    color: rgb(94, 32, 4);
+}

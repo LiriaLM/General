@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/hombre.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+  background-color: rgba(255, 255, 255, 0.425);
+  margin:200px ;
+  margin-left: 900px ;
+  width: 300px;
+  border: 1px rgb(0, 0, 0) solid;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 100px ;
+  padding-top: 0px;
+}
+.B{
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-right: 30px;
+ display: inline-block;
+ margin: auto;
+ margin-left: 60px;
+ text-decoration: none;
+  color: #38418f;
+  border-radius: 3px;
+} 
+.B:hover{
+  background-color: #f8e081;
+  color: #38418f;
+}
+
+
+.space-grotesk-.L {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300px;
+  font-style: normal;
+}
